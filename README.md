@@ -14,6 +14,7 @@ IDEs / Editors:
   PyCharm
   Visual Studio 2019/Code
   Vim
+  Atom
 
 Complier:
   GCC
@@ -21,6 +22,7 @@ Complier:
 Iterests:
   Game Design
   Software Design
+  Web Development
 
 Current courses:
   Design Patterns for C++
