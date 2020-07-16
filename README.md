@@ -26,4 +26,4 @@ Current courses:
   Design Patterns for C++
   C++ STL 17
   Python Masterclass
-  
+  The Complete Web Developer in 2020
